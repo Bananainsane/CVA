@@ -181,4 +181,4 @@ Educational project
 **Game Type:** Arena Survival / Roguelike
 **Platform:** PC (Windows/macOS)
 **Target:** 60+ FPS
-**Development Time:** October 2024
+**Development Time:** October 2025
