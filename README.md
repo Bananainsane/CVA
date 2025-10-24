@@ -2,6 +2,14 @@
 
 **CVA** is a top-down arena survival game built in Unity, inspired by the Vampire Survivors genre.
 
+## Screenshots
+
+![Gameplay Screenshot 1](Screenshots/gameplay-1.png)
+*Early game: Fighting the first wave of enemies with basic projectile weapon*
+
+![Gameplay Screenshot 2](Screenshots/gameplay-2.png)
+*Mid-game: Multiple weapons active with powerup selection UI*
+
 ## Game Overview
 
 Survive endless waves of enemies while leveling up and choosing powerful upgrades. Battle through increasingly difficult loops as enemy stats scale exponentially. How long can you survive?
