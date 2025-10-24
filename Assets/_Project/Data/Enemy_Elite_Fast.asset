@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2760ad49db8c644689090e5d6cf60bdc, type: 3}
+  m_Name: Enemy_Elite_Fast
+  m_EditorClassIdentifier: Assembly-CSharp::CVA.Data.EnemyData
+  enemyName: Elite Fast
+  description: Elite enemy - very fast and dangerous
+  _maxHealth: 80
+  _moveSpeed: 4
+  _contactDamage: 18
+  _xpValue: 15
+  enemyColor: {r: 1, g: 0.9, b: 0.1, a: 1}
+  sizeScale: 1.1
+  _xpOrbData: {fileID: 11400000, guid: e93b351bd6a0dde478d6ae1df783e269, type: 2}
